@@ -3,19 +3,39 @@
     padding: 0;
 }
 
-header{
+.inicio{
     background-color: rgb(212, 211, 211);
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 24px 0;
+    padding: 24px 0;
 }
 
 .logo-educa{
     width: 25%;
 }
 
+.comeco-lista-item{
+   display: inline-block;
+   margin: 16px 25px;
+   font-size: 24px;
+}
+
+.meio{
+    background-color: rgb(41, 41, 41);
+    color: rgb(247, 247, 247);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 24px 0;
+}
+
 .foto-escola{
     width: 30%
+}
+
+.meio-lista-item{
+    display: inline-block;
+    font-size: 24px;
 }
