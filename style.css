@@ -32,21 +32,18 @@
 }
 
 .foto-escola{
-    width: 30%
+    width: 105%
 }
 
 .meio-lista-item{
     display: inline-block;
     align-items: center;
     justify-content: space-around;
-    margin: 0px 0px;
-    font-size: 0px;
+    margin: 10px 10px;
+
+    font-size: 10px 10px;
 }
 
 .logo-insta{
-    width: 5%;
-}
-
-.logo-tele{
     width: 5%;
 }
