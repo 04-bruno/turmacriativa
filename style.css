@@ -23,12 +23,11 @@
 }
 
 .meio{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(212, 211, 211);
     color: rgb(0, 0, 0);
     display: flex;
-    justify-content: space-around;
     align-items: center;
-    margin: 24px 0;
+    padding: 0 0;
 }
 
 .foto-escola{
@@ -45,5 +44,5 @@
 }
 
 .logo-insta{
-    width: 5%;
+    width: 50%;
 }
