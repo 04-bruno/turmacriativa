@@ -1,0 +1,12 @@
+.inidois{
+    background-color: rgb(212, 211, 211);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.logo-insta{
+    width: 20%;
+}
